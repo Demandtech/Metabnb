@@ -19,7 +19,7 @@ const Grid = () => {
                     return (
                         <div key={id} className='flex flex-col space-y-2 border-2 p-4 rounded-lg w-full text-xs transition-all'>
                              <div className="relative mb-2">
-                                <img className="rounded-xl object-cover border-2 h-64 w-full" src={img} alt='picture not found'/>
+                                <img className="rounded-xl object-cover border-2 h-64 w-full" src={img} alt='not found'/>
                                 <button className="transition-all absolute top-3 right-3 text-2xl text-borderColor hover:text-red-500">{icon}</button>
                              </div>
                             <div className='flex justify-between'>

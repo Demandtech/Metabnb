@@ -25,7 +25,7 @@ const Modal = ()=>{
               <div className='px-4'>
                   <p className="py-4"> Choose your preferred wallet:</p>
                   <div className="py-2 px-5 mb-2 bg-midGrey border rounded-lg">
-                        <a href="" className="flex items-center">
+                        <a href="#" className="flex items-center">
                             <div className="mr-2">
                                <img src={metapng} alt="" />
                             </div>
@@ -36,7 +36,7 @@ const Modal = ()=>{
                         </a>
                   </div>
                   <div className="py-2 px-5 my-1 border rounded-lg">
-                        <a href="" className="flex items-center">
+                        <a href="#" className="flex items-center">
                             <div className="mr-3">
                                <img src={walletpng} alt="logo" />
                             </div>
