@@ -4,6 +4,7 @@ import Navbar from './navbar'
 import Grid from './grid'
 // import { FaStar } from 'react-icons/fa'
 import { GoSettings } from 'react-icons/go'
+import Modal from './modal'
 
 
 const Place = () => {
@@ -14,7 +15,11 @@ const Place = () => {
             <div className="mb-4">
              <Grid />
             </div>
-            <Grid />          
+            <div className="mb-10">
+
+            <Grid />  
+            </div>
+            <Modal />        
             <Footer />
         </>
     )
