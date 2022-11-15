@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3b98fd8.css",
-    "main.js": "/static/js/main.ceb92354.js",
-    "static/media/nft.png": "/static/media/nft.90676963b961506c979b.png",
-    "static/media/hero-img.png": "/static/media/hero-img.c208dfcaf42d3f3bb5a6.png",
-    "static/media/metamask.svg": "/static/media/metamask.fb52934db13925cb94877c2a07d73fe9.svg",
-    "static/media/opensea.svg": "/static/media/opensea.cfd1ca6b48614b8e5c1fac5ac3688b16.svg",
-    "static/media/mbtoken.svg": "/static/media/mbtoken.6a2427bee120a728c62147161737f2d5.svg",
-    "index.html": "/index.html",
-    "main.b3b98fd8.css.map": "/static/css/main.b3b98fd8.css.map",
-    "main.ceb92354.js.map": "/static/js/main.ceb92354.js.map"
+    "main.css": "./static/css/main.b3b98fd8.css",
+    "main.js": "./static/js/main.56039d59.js",
+    "static/media/nft.png": "./static/media/nft.90676963b961506c979b.png",
+    "static/media/hero-img.png": "./static/media/hero-img.c208dfcaf42d3f3bb5a6.png",
+    "static/media/metamask.svg": "./static/media/metamask.fb52934db13925cb94877c2a07d73fe9.svg",
+    "static/media/opensea.svg": "./static/media/opensea.cfd1ca6b48614b8e5c1fac5ac3688b16.svg",
+    "static/media/mbtoken.svg": "./static/media/mbtoken.6a2427bee120a728c62147161737f2d5.svg",
+    "index.html": "./index.html",
+    "main.b3b98fd8.css.map": "./static/css/main.b3b98fd8.css.map",
+    "main.56039d59.js.map": "./static/js/main.56039d59.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b98fd8.css",
-    "static/js/main.ceb92354.js"
+    "static/js/main.56039d59.js"
   ]
 }
