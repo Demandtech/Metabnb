@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Metabnb/static/css/main.b3b98fd8.css",
+    "main.js": "/Metabnb/static/js/main.c46b11f8.js",
+    "static/media/nft.png": "/Metabnb/static/media/nft.90676963b961506c979b.png",
+    "static/media/hero-img.png": "/Metabnb/static/media/hero-img.c208dfcaf42d3f3bb5a6.png",
+    "static/media/metamask.svg": "/Metabnb/static/media/metamask.fb52934db13925cb94877c2a07d73fe9.svg",
+    "static/media/opensea.svg": "/Metabnb/static/media/opensea.cfd1ca6b48614b8e5c1fac5ac3688b16.svg",
+    "static/media/mbtoken.svg": "/Metabnb/static/media/mbtoken.6a2427bee120a728c62147161737f2d5.svg",
+    "index.html": "/Metabnb/index.html",
+    "main.b3b98fd8.css.map": "/Metabnb/static/css/main.b3b98fd8.css.map",
+    "main.c46b11f8.js.map": "/Metabnb/static/js/main.c46b11f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b98fd8.css",
+    "static/js/main.c46b11f8.js"
+  ]
+}
