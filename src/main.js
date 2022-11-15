@@ -28,7 +28,7 @@ const Hero = ()=> {
                  <h1 className='text-2xl md:text-5xl font-medium text-textDark md:leading-tight'> Rent a <span className='font-bold text-purpleText'>Place</span> away from <span className='font-bold text-purpleText'>
                      Home </span> in the <span className='font-bold text-purpleText'> Metaverse </span>
                  </h1>
-                 <p className="text-base md:text-xl leading-loose">
+                 <p className="text-base md:text-xl lg:leading-relaxed">
                      we provide you access to
                      luxury and affordable houses
                      in the metaverse, get a

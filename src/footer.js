@@ -3,7 +3,7 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaRegCopyright,} from 'react-icons
 
 const Footer = () => {
   return (
-    <footer className='bg-blackText mt-10 pt-10 pb-5'>
+    <footer className='bg-blackText pt-10 pb-5'>
        <div className='grid grid-cols-2 gap-5 md:grid-cols-4 w-5/6 mx-auto text-whiteText justify-items-around'>
             <div className='first-wrapper'>
                 <img className='w-4/5 mb-20'

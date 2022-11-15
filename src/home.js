@@ -13,7 +13,9 @@ const Home = ()=>{
      <Nav/>
      <Main/>
      <Modal />
-    <Footer />
+     <div className="">
+       <Footer/>
+     </div>
   
    </div>
  )
