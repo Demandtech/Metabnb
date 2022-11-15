@@ -16,7 +16,6 @@ const Place = () => {
              <Grid />
             </div>
             <div className="mb-10">
-
             <Grid />  
             </div>
             <Modal />        
